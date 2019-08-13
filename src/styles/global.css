@@ -1,0 +1,24 @@
+html {
+    background-color: lavenderblush;
+    color: #424242;
+  }
+
+  .button {
+    font-family: 'Almendra Display', cursive; 
+    background-color: #90caf9;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+
+/* .about-page{
+  margin: 3rem;
+  maxWidth: 600;
+} */
